@@ -85,7 +85,7 @@ The card's company panel presents the complete Ride Bangla service list — **Ri
 
 ## The card
 
-Captures of this card, taken for this README — the card itself, front and back, with the page around it removed.
+Captures of this card, front and back, with the page around it removed (transparent corners, as in the CEO README) — treated from this repository’s card images; refresh with fresh live captures if the live render differs.
 
 <table>
   <tr>
